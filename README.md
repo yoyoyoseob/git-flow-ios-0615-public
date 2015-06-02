@@ -11,7 +11,7 @@ resources: 5
 * Get familiar with git syntax
 * Get comfortable creating, merging, pushing, and pulling branches
 * Resolve merge conflicts
-
+(╯°□°）╯︵ ┻━┻
 ## Instructions
 
 Remember to fork and clone this lab if you haven't already.
